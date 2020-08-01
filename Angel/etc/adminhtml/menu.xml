@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © 2015 Darkspot. All rights reserved.
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../Backend/etc/menu.xsd">
+    <menu>
+        <add id="Darkspot_Angel::darkspot_bannerindex" title="DarkSpot" module="Darkspot_Angel"  sortOrder="20" dependsOnModule="Darkspot_Angel" action="angel/banner/index" resource="Darkspot_Angel::darkspot_bannerindex"/>
+<!--AddMenu-->
+    </menu>
+</config>
